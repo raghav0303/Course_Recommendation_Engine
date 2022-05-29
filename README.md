@@ -6,7 +6,7 @@ This project is a simple recommendation engine solely made for the purpose of he
 
 For filtering courses according to the **skill preferences** provided by learners, courses related to similar skills are recommended and then filtered courses are displayed in descending order of their **weighted average** values. For recommending courses similar to a selected course the concept of **cosine similarity** has been used.
 
-This project is in the form of a web-app and is deployed using [Streamlit](https://www.streamlit.io/).
+This project is in the form of a web-app and is deployed using [Streamlit](https://www.streamlit.io/). The project is built in Ubuntu 18.04 and python version used is 3.6.9
 
 ## Instructions to run the Project on your local system
 
