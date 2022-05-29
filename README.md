@@ -11,7 +11,7 @@ This project is in the form of a web-app and is deployed using [Streamlit](https
 ## Instructions to run the Project on your local system
 
 1. Download the zip file or clone this repository into your system
-2. Open the 'Course_Recommendation_Engine' folder and make sure that you are in the directory where ```requirements.txt``` and ```recommender.py``` files are present.
+2. Open the 'Course_Recommendation_Engine' folder and make sure that you are in the directory where ```requirements.txt``` and ```recommender.py```(contains the algorithms for recommending courses) files are present.
 3. Open that directory in your terminal(command prompt). You can also navigate using 'cd' command to the folder where ```requirements.txt``` and ```recommender.py``` files are present from the terminal itself.
 4. Run the following command while you are in the directory where ```requirements.txt``` file is present to install necessary libraries for this course recommendation system to run.
   ```
