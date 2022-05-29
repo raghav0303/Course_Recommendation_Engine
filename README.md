@@ -30,7 +30,9 @@ Both these above datasets have been combined to give [coursera-courses.csv](http
 
 ## Weighted Average
 ![](https://github.com/raghav0303/Course_Recommendation_Engine/blob/main/Images/Weighted%20Average%20Formula.png)
+
 Weighted Average Formula
+
 W = weighted rating
 R = average for the course as a number from 0 to 10 (mean) = (Rating)
 v = number of ratings for the movie = (votes)
@@ -39,5 +41,7 @@ C = the mean rating across the whole report (currently 6.9)
 
 ## Cosine Similarity
 ![](https://github.com/raghav0303/Course_Recommendation_Engine/blob/main/Images/Cosine%20Similarity%20Formula.png)
+
 Formula to find the Cosine Similarity between two Vectors
+
 Cosine similarity is a metric, helpful in determining, how similar the data objects are irrespective of their size. We can measure the similarity between two sentences in Python using Cosine Similarity. In cosine similarity, data objects in a dataset are treated as a vector.
