@@ -29,3 +29,15 @@ Data from Coursera was scraped by another github user using the requests and bea
 Both these above datasets have been combined to give [coursera-courses.csv](https://github.com/raghav0303/Course_Recommendation_Engine/blob/main/Datasets/coursera-courses.csv). This file consists of 1000 instances and 14 features and has a size of 1.41 MB.
 
 ## Weighted Average
+![](https://github.com/raghav0303/Course_Recommendation_Engine/blob/main/Images/Weighted%20Average%20Formula.png)
+Weighted Average Formula
+W = weighted rating
+R = average for the course as a number from 0 to 10 (mean) = (Rating)
+v = number of ratings for the movie = (votes)
+m = minimum ratings required for the course to be listed in Top 250 (currently 3000)
+C = the mean rating across the whole report (currently 6.9)
+
+## Cosine Similarity
+![](https://github.com/raghav0303/Course_Recommendation_Engine/blob/main/Images/Cosine%20Similarity%20Formula.png)
+Formula to find the Cosine Similarity between two Vectors
+Cosine similarity is a metric, helpful in determining, how similar the data objects are irrespective of their size. We can measure the similarity between two sentences in Python using Cosine Similarity. In cosine similarity, data objects in a dataset are treated as a vector.
